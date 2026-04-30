@@ -1,6 +1,6 @@
 👤 Student Details
-Name: Abhishek Chauhan
-Section: 23BDA-1(A)
+Name: Lakshit Soni
+Section: 23BDA-2(A)
 Subject: Full Stack Development-2 (FSD)
 Semester: 6
 <p align="center">
